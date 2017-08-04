@@ -1,4 +1,6 @@
 /*
+	T-SQL
+
 	Type   : Procedure
 	Purpose: Brings all the parts together under one roof.
 	Input  : Custid, Orderid, PartID, Qty
